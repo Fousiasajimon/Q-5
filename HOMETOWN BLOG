@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discover Peruvanthanam</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 10px 20px;
+        }
+        section {
+            margin: 20px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+        .image-container {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+        }
+        ul {
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Peruvanthanam</h1>
+        <p>A charming small town with rich heritage and modern growth</p>
+    </header>
+
+    <main>
+        <!-- Introduction -->
+        <section>
+            <h2>About Peruvanthanam</h2>
+            <p>Peruvanthanam, a tranquil village in Idukki, Kerala, is a serene escape nestled amidst lush hills and forests, offering a blend of natural beauty and cultural heritage, perfect for a rejuvenating getaway. 
+                The village is surrounded by hills, forests, and rivers, making it an ideal destination for nature lovers. 
+      The is home to ancient temples and churches, reflecting its diverse and vibrant history. 
+        </p>
+        </section>
+
+        <!-- Image at the center -->
+        <div class="image-container">
+            <img src="data:image/jpeg;base64,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"style="width:40%; height:40%"> 
+                 
+        </div>
+
+        <!-- Historical Importance -->
+        <section>
+            <h2>Historical Importance</h2>
+            <p>  Historically, Peruvanthanam was a crucial stopover for traders traveling between the high ranges and the lowlands, fostering a blend of cultures and traditions.The region holds religious significance due to the presence of churches and temples that date back centuries. Traditional festivals celebrated here reflect the town's enduring connection to its roots.</p>
+        </section>
+
+        <!-- Educational Institutions -->
+        <section>
+            <h2>Educational Institutions</h2>
+            <p>Peruvanthanam takes pride in its educational institutions, providing opportunities for young minds to thrive. Key institutions include:</p>
+            <ul>
+                <li><b>St Joseph's Higher Secondary School Chuzhup</b>: A school known for its academic excellence and holistic development of students.</li>
+                <li><b>Government UP School</b>: A reputed institution focused on modern education methods and extracurricular activities.</li>
+                <li><b>St. Antony's College</b>: A hub for higher education, inspiring students to achieve academic and personal success.</li>
+            </ul>
+        </section>
+
+        <!-- Healthcare Facilities -->
+        <section>
+            <h2>Healthcare Facilities</h2>
+            <p>Peruvanthanam ensures the well-being of its residents with accessible healthcare facilities, including:</p>
+            <ul>
+                <li><b>Peruvanthanam Public Health Centre</b>: Offering essential health services to the local community.</li>
+                <li><b>Private Clinics</b>: Providing specialized treatments with experienced medical professionals.</li>
+            </ul>
+        </section>
+
+        <!-- Recreational Spots -->
+        <section>
+            <h2>Recreational Spots</h2>
+            <p>Recreational activities and tourist destinations in and around Peruvanthanam make it a delightful place to explore:</p>
+            <ul>
+
+                <li><b>Mountain Bike Kerala</b>: Offers equipment hire and bike tours.</li>
+                <li><b>Panchalimedu</b>: A popular point of interest and landmark.</li>
+                <li><b>Sita Devi Lake</b>: A serene body of water.</li>
+                <li><b>Barren Hills</b>: Offers scenic views.</li>
+                <li><b>Vagamon Orchidarium and Floriculture Project</b>: A nature and wildlife area.</li>
+                <li><b>Vagamon Pine Forest</b>: A picturesque landmark.</li>
+                <li><b>Valanjamkanam Water Falls</b>: A beautiful waterfall.</li>
+                <li><b>Parunthumpara</b>: A scenic walking area with lookouts.</li>
+                <li><b>Pattumalay Tea Factory</b>: A place to explore tea plantations.</li>
+                <li><b>Vagamon Lake</b>: Another serene body of water.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Discover Peruvanthanam | All rights reserved</p>
+    </footer>
+</body>
+</html>
